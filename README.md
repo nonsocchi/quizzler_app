@@ -1,6 +1,3 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 ## Quizzler ❓
 
 A simple quiz app that tests your general knowledge. 
